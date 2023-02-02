@@ -2,7 +2,7 @@
 layout: default
 ---
 ### 摄影: HeLingLei
-### 描述: 
+### 描述: 是日, 大寒
 ### 提交时间: 20230120
 ##### NO.23.001-IMG_6800.JPG Canon EOS 700D EF100-300mm f/4.5-5.6 USM 1/60 5 100 
 ![NO.23.001-IMG_6800.JPG](https://zooatmospheregroup.github.io/MEDIA-2023/mix/20230120HeLingLei/NO.23.001-IMG_6800.JPG)
